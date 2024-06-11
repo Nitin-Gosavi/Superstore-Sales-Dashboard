@@ -1,1 +1,1 @@
-# Superstore-Sales-Dashboard
+Objective of this project is to contribute to the success of business by utilizing data analysis techniques,specially focus on time series analysis to provide valuable in insight and accurate sales forecasting using powerBI.
